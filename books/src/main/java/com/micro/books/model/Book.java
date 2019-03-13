@@ -23,6 +23,8 @@ public class Book {
 
     private String Author;
 
+    private Long rateId;
+
 
 
 
